@@ -1,2 +1,2 @@
-# ffxiv-tools
-Tooling and research stuff for working with FFXIV 1.0
+# ZiPatcherExplorer
+View FFXIV 1.0 ZiPatch files
